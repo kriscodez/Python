@@ -7,12 +7,12 @@ li3 = [1,2, bool, 'a']
 
 # List is a data structure. Data structure is a way for us to contain and organize data
 
-#List Indexing
+# List Indexing
 amazon_cart = ['notebook', 'apple ipad']
 print(amazon_cart[0])
 print(amazon_cart[1])
 
-#List Slicing - works like string slicing
+# List Slicing - works like string slicing
 # Slicing creates a new list, it does not alter the original list
 # lIsts are mutable
 amazon_cart = [
