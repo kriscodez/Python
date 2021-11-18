@@ -101,6 +101,5 @@ for row in picture:
    for item in row:
        if item == 0:
            print(" ")
-       else:
-           print("*")
-    print()
+       #elif:
+           #print("*")

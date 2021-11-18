@@ -15,4 +15,5 @@ print(t[1:]) # interesting, this returns a tuple
 t.index(1) # returns the index of the first occurance of an element
 
 #tuples can ensure data integrity
+# tuples can be concatenated, but that would make a new tuple in memory
 
